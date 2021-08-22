@@ -2,9 +2,13 @@
 
 *Link*
 
+https://michaeldviau.github.io/Homework-05-WorkDayPlanner/
+
 *Screenshot*
 
-*Note*
+![image](https://user-images.githubusercontent.com/86207868/130342363-b4f924dd-88c9-428a-95d3-9eb61dbf3cbf.png)
+
+*Note:*
 
 ## Your Task
 
